@@ -9,3 +9,5 @@ Version 0.3.0 works.
 
 I used a Quarkus quickstart as base as I encountered the problem during developing a new Quarkus service.
 Strangely it still works in our existing very similar projects, and I was not able to find out what's the difference. 
+
+It does not help to add a real injection (at least to a test method), like `@GivenTextResource`.
