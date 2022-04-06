@@ -51,6 +51,7 @@
     <dependency>
       <groupId>io.hosuaby</groupId>
       <artifactId>inject-resources-junit-jupiter</artifactId>
+      <!-- Change to 0.3.0 and it works -->
       <version>0.3.1</version>
       <scope>test</scope>
     </dependency>
